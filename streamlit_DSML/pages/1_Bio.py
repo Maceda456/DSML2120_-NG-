@@ -5,7 +5,7 @@ st.title("👋 My Bio")
 
 # ---------- TODO: Replace with your own info ----------
 NAME = "Norma Gonzalez"
-PROGRAM = "Major Data Science and minor in Computer science "
+PROGRAM = "🎓Major Data Science and minor in Computer science "
 INTRO = ("""
     Hi my name is Norma Gonzalez and I am studying data science, at this moment I do not know what I would do after college. I feel like I love cleaning up data but I need to
     find more time to really focus on practicing how to do that. I am also not very well with python, I feel like R program is very intresting to me.
@@ -13,9 +13,9 @@ INTRO = ("""
     a chart or bar graph, to me that is always intresting."""
 )
 FUN_FACTS = [
-    "I love reading horror books and love halloween ",
-    "I love to play video games when I have the time",
-    "I would want to travel the world ",
+    "I love reading horror books and love halloween 🎃📚 ", 
+    "I love to play video games when I have the time 🎮",
+    "I would want to travel the world 🗺️ ",
 ]
 
 
