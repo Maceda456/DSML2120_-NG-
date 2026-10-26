@@ -29,7 +29,7 @@ if not filtered_df.empty:
         filtered_df,
         names="Activity",
         values="Hours",
-        title="Student Free Time Activities"
+        title="How do students spend there free time"
     )
 
     st.plotly_chart(fig, use_container_width=True)
