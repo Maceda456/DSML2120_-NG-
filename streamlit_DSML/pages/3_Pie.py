@@ -3,7 +3,7 @@ import pandas as pd
 import plotly.express as px
 from pathlib import Path
 
-st.title("Pie Chart")
+st.title("Pie Chart 🥧")
 
 # Find the CSV file
 csv_path = Path(__file__).resolve().parent.parent / "data" / "pie_demo.csv"
