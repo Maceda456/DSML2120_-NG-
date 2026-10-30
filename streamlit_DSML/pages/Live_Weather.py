@@ -44,3 +44,9 @@ fig = px.line(df, x="time", y="temperature",
               markers=True)
 
 st.plotly_chart(fig, use_container_width=True)
+
+
+if auto_refresh:
+    time.sleep(refresh_sec)
+    st.rerun()
+
